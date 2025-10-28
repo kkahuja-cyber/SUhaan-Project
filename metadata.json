@@ -1,0 +1,5 @@
+{
+  "name": "RAG-Enhanced Prompt Processor",
+  "description": "An application that demonstrates Retrieval-Augmented Generation (RAG) by first searching a local cache for similar prompts before querying the Gemini API. This approach saves token generation for repeated queries.",
+  "requestFramePermissions": []
+}
